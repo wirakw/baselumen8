@@ -1,0 +1,1 @@
+<div style="color: black">{!! html_entity_decode($data['message']) !!}</div>
